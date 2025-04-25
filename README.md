@@ -10,24 +10,37 @@
 ---
 
 ## 🛠️ Skills & Tools
-
-### 💡 Languages & Frameworks
-- **Core Java**
-- **Spring Boot**
-- **MySQL**
-- **YugabyteDB**
-- **MongoDB**
-- **Redis**
-- **BDD Cucumber (for backend automation)**
-
-### 🧰 Tools & Platforms
-- **IntelliJ IDEA**
-- **Postman**
-- **JMeter** (Performance Testing)
-- **Atlassian Tools**: Jira, Bitbucket, Confluence, Bamboo
-- **PCF** (Pivotal Cloud Foundry)
-- **Splunk** (Monitoring & Logging)
-- **Github**
+<table>
+  <tr>
+    <td valign="top"><strong>💡 Languages & Frameworks</strong></td>
+    <td valign="top"><strong>🧰 Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Core Java</li>
+        <li>Spring Boot</li>
+        <li>MySQL</li>
+        <li>YugabyteDB</li>
+        <li>MongoDB</li>
+        <li>Redis</li>
+        <li>CI/CD</li>
+        <li>BDD Cucumber</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>IntelliJ IDEA</li>
+        <li>Postman</li>
+        <li>JMeter (Performance Testing)</li>
+        <li>Atlassian Tools: Jira, Bitbucket, Confluence, Bamboo</li>
+        <li>PCF (Pivotal Cloud Foundry)</li>
+        <li>Splunk</li>
+        <li>Github</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
