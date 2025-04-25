@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @sunil-gudle
-- 👀 I’m interested in Backend Developement
-- 🌱 I’m working on Core Java, Spring Boot.
-- Also have the hands experience on Automation testing using BDD cucumber for Rest Services(backend) automation.
-- 💞️ I’m looking to collaborate on Live projects which will help me to grow in my career.
+# 👋 Hi there, I'm Sunil Gudle
 
-#Skills & Tools:
-- Skills: Core Java, Spring Boot, MySQL, YugabyteDB, BDD Cucumber
-- Tools: IntellIj Idea, Postman, Jmeter(Performance Testing), Atlasian Tools(Jira, Bitbucket, Confluence, Bamboo), PCF, Splunk
+## 🚀 About Me
+- 🔍 I'm passionate about **Backend Development**
+- 💻 Currently honing skills in **Core Java** and **Spring Boot**
+- 🧪 Experienced in **BDD Cucumber** for REST API automation testing
+- 🌱 Continuously learning and exploring new backend tools and technologies
+- 🤝 Looking to collaborate on **live backend projects** to grow and contribute
 
-- 📫 We can connect over the LinkedIn ([Sunil Gudle](https://www.linkedin.com/in/sunil-gudle/)).
+---
+
+## 🛠️ Skills & Tools
+
+### 💡 Languages & Frameworks
+- **Core Java**
+- **Spring Boot**
+- **MySQL**
+- **YugabyteDB**
+- **MongoDB**
+- **Redis**
+- **BDD Cucumber (for backend automation)**
+
+### 🧰 Tools & Platforms
+- **IntelliJ IDEA**
+- **Postman**
+- **JMeter** (Performance Testing)
+- **Atlassian Tools**: Jira, Bitbucket, Confluence, Bamboo
+- **PCF** (Pivotal Cloud Foundry)
+- **Splunk** (Monitoring & Logging)
+- **Github**
+
+---
+
+## 🌐 Connect With Me
+- 📫 [LinkedIn – Sunil Gudle](https://www.linkedin.com/in/sunil-gudle)
+
+---
+
+> 🚀 _Always learning, always growing. Let’s build something amazing together!_
